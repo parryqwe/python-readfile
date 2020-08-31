@@ -42,7 +42,7 @@ glob輸入檔名規則,輸出符合規則檔案
 5.4 write  
 ## json
 6.1 load  
-6.2 dump   
+6.2 dump
 ## pickle 
 7.1 load  
 7.2 dump  
